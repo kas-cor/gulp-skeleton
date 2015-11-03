@@ -1,7 +1,7 @@
 {
-  "name": "social_portal",
+  "name": "gulp-skeleton",
   "version": "1.0.0",
-  "description": "Spcial portal BPK",
+  "description": "My gulp skeleton",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
