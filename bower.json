@@ -1,10 +1,10 @@
 {
-  "name": "social_portal",
+  "name": "ulp-skeleton",
   "version": "1.0.0",
   "authors": [
     "kas-cor <kascorp@gmail.com>"
   ],
-  "description": "Spcial portal BPK",
+  "description": "My gulp skeleton",
   "license": "ISC",
   "private": true,
   "ignore": [
