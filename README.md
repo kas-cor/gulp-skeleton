@@ -3,28 +3,22 @@ gulp-skeleton
 
 My gulp skeleton
 
-Make sure you have `gulp` installed by building:
+Make sure you have `gulp`, `jshint` and `bower` installed by building:
 ```bash
-npm i -g gulp-cli
-```
-
-and
-
-```bash
-npm i -g jshint
+npm i -g gulp-cli bower jshint
 ```
 
 Clone repo:
 ```bash
-git clone https://github.com/kas-cor/gulp-skeleton.git [project_name]
-cd gulp-skeleton [project_name]
-npm install
-bower install
+git clone https://github.com/kas-cor/gulp-skeleton.git project_name
+cd project_name
+npm i
+bower i
 gulp
 gulp watch
 ```
 
-Using:
+Useing:
 
 Input files (for charge):
 ```bash
