@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
         runSequence = require('run-sequence'),
-        clean = require('gulp-clean'),
+        clean = require('gulp-rimraf'),
         copy = require('gulp-copy'),
         less = require('gulp-less'),
         concat = require('gulp-concat'),
