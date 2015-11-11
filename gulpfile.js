@@ -151,7 +151,7 @@ gulp.task('concat:site:js', function () {
     return gulp.src([
         './_dev/global/js/all.js',
         './_dev/site/js/*.js'
-    ]).pipe(concat('style.min.js')).pipe(gulp.dest('./_dev/build/site'));
+    ]).pipe(concat('script.min.js')).pipe(gulp.dest('./_dev/build/site'));
 });
 gulp.task('concat:admin:js', function () {
     return gulp.src([
