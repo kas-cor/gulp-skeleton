@@ -5,7 +5,7 @@ My gulp skeleton
 
 Make sure you have `gulp`, `jshint` and `bower` installed by building:
 ```bash
-npm i -g gulp-cli bower jshint
+npm i -g gulp bower jshint
 ```
 
 Clone repo:
