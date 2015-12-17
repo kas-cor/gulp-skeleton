@@ -5,7 +5,7 @@ My gulp skeleton
 
 Make sure you have `gulp`, `jshint` and `bower` installed by building:
 ```bash
-npm i -g gulp bower jshint
+npm i gulp bower jshint -g
 ```
 
 Clone repo:
@@ -36,10 +36,10 @@ _dev/site/img/**/*
 
 Output files:
 ```bash
-admin/css/style.min.js
+admin/css/style.min.css
 admin/js/script.min.js
 
-css/style.min.js
+css/style.min.css
 js/script.min.js
 
 admin/img/**/*
